@@ -21,7 +21,7 @@ Ensure you have Python installed along with the required libraries.
 
 Install dependencies using:
 
-nginx
-Copier
-Modifier
+\begin{verbatim}
 pip install pandas numpy matplotlib seaborn
+\end{verbatim}
+
