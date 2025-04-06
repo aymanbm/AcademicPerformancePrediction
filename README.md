@@ -22,5 +22,5 @@ Ensure you have Python installed along with the required libraries.
 Install dependencies using:
 
 ```bash
-<pre> bash pip install pandas numpy matplotlib seaborn  </pre>
+pip install pandas numpy matplotlib seaborn
 
