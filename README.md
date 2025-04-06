@@ -21,7 +21,6 @@ Ensure you have Python installed along with the required libraries.
 
 Install dependencies using:
 
-\begin{verbatim}
 pip install pandas numpy matplotlib seaborn
-\end{verbatim}
+
 
